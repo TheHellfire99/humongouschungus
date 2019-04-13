@@ -1,0 +1,93 @@
+ /* font-family: 'Roboto', sans-serif;
+font-family: 'Heebo', sans-serif;
+ */
+
+
+.body{
+    background-image: url("https://media1.tenor.com/images/d1e09b21dec248b488950cce7e62f562/tenor.gif?itemid=13204123");
+    background-size: cover;
+    height: 96vh;
+    padding:0;
+    margin:0;
+   color: white; 
+  font-family: 'Heebo', sans-serif;
+  Text-align: center; 
+} 
+.newsone{
+  border-radius: 20px; 
+  border: 2px solid black; 
+  float: right; 
+  margin-right: 30px; 
+  margin-top: 390px; 
+  padding-bottom: 0px; 
+} 
+.newstwo{
+   border-radius: 20px; 
+  border: 2px solid black; 
+position: absolute; 
+  margin-left: 159px;
+} 
+.title{
+  margin-top: 10px; 
+  text-align: center; 
+  margin-left: 908px; 
+ 
+}
+.line {
+  height: 2px;
+    background-color: lightgray;
+    width: 80px;
+    margin: 0 auto;
+    margin-top: 15px;
+    margin-bottom: 60px;
+} 
+.images{
+  margin-left: 10px; 
+}
+p{
+  color: black; 
+}
+h3{
+   color: black; 
+} 
+.links{
+  margin-top: 40px; 
+  margin-left: 10px; 
+} 
+.chungu{
+  border-radius: 10px; 
+  position: absolute; 
+  top: 20%; 
+  left: 45%; 
+  height: 500px; 
+}
+.why{
+  position: absolute; 
+  top: 20%; 
+  left: 58%;
+  font-size: 40px; 
+  color: white; 
+} 
+.wh{
+  position: absolute; 
+  top: 65%; 
+  left: 58%; 
+  font-size: 40px; 
+  color: white; 
+}
+li{
+  margin-top: 10px; 
+}
+.titl{
+  text-align: center; 
+} 
+.songs{
+  text-align: center; 
+}
+.page{ 
+  height: auto; 
+   background-position:center;
+  background-size: cover; 
+  background-image: url("https://cdn.glitch.com/5c1d6784-2ae5-490b-adad-2a8df9df53a4%2Fgoat_muzzle_funny_114754_2560x1600.jpg?1555103201009"); 
+  background-attachment: fixed; 
+} 
