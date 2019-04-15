@@ -91,3 +91,6 @@ li{
   background-image: url("https://cdn.glitch.com/5c1d6784-2ae5-490b-adad-2a8df9df53a4%2Fgoat_muzzle_funny_114754_2560x1600.jpg?1555103201009"); 
   background-attachment: fixed; 
 } 
+.barlogo{
+  border-radius: 12px; 
+} 
